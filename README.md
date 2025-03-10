@@ -1,7 +1,5 @@
 # AtliQ Hardware - Business Insights 360
 
-**Sample link** [Link](https://app.powerbi.com/view?r=eyJrIjoiMThiMjUzZDAtZTc5NS00ZGIwLWFjZmMtMWYyNzhkMjk1N2YxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
 ## 📑 Table of Contents
 - Project Overview
 - Datasets
