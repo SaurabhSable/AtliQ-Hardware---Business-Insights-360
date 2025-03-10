@@ -23,7 +23,11 @@ I contributed to this project by applying my learnings from the Codebasics Power
 
 ## 📊 Datasets
 The analysis used two types of tables:
+
+gdb041:
 - **Dimension Tables:** Customer, Market, and Product data.
+
+gdb056:
 - **Fact Tables:** Sales and forecast data to analyze trends and improve customer satisfaction while reducing storage costs.
 
 ### Data Sources
@@ -128,6 +132,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 ## 🧰 Tools & Technologies
 - **Power BI Desktop**: Visualization & reporting
 - **SQL**: Data extraction & transformation
+- **ETL & Power Query**: Data integration, transformation, and pipeline creation
 - **DAX Studio**: Performance optimization
 - **Project Charter**: Planning and documentation
 
