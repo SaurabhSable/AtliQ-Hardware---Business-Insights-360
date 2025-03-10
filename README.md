@@ -1,14 +1,16 @@
 # AtliQ Hardware - Business Insights 360
 
-## 📑 Table of Contents
-- Project Overview
-- Datasets
-- Dashboard Highlights
-- Power BI Techniques
-- Tools & Technologies
-- Business Concepts Learned
+# Table of Contents  
+- [Project Overview](#project-overview)  
+- [Datasets](#datasets)  
+- [Why Data Modeling?](#why-data-modeling)  
+- [Power BI Dashboard Pages](#power-bi-dashboard-pages)  
+- [Power BI Techniques Learned](#power-bi-techniques-learned)  
+- [Tools & Technologies](#tools--technologies)  
+- [Business Concepts Learned](#business-concepts-learned)  
+- [Feedback](#feedback)  
 
-## 🌟 Project Overview
+## Project Overview
 AtliQ Hardware, a rapidly expanding global company, sells computers and accessories through retailers, direct sales, and distributors. Despite its growth, the opening of a new store in America led to unexpected losses, highlighting the need for deeper insights.
 
 With competitors using advanced analytics, AtliQ Hardware saw the value of building strong analytics capabilities. The project aimed to support data-driven decisions across finance, sales, marketing, and supply chain functions using Power BI.
@@ -19,7 +21,7 @@ I contributed to this project by applying my learnings from the Codebasics Power
 
 ---
 
-## 📊 Datasets
+## Datasets
 The analysis used two types of tables:
 
 gdb041:
@@ -35,7 +37,7 @@ gdb056:
 
 ---
 
-## 🔍 Why Data Modeling?
+## Why Data Modeling?
 Data modeling is crucial for building a solid analytical report. It bridges the gap between raw data and valuable insights.
 
 Steps in analysis:
@@ -51,7 +53,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 
 ---
 
-## 📈 Power BI Dashboard Pages
+## Power BI Dashboard Pages
 
 **The dashboard comprises seven pages**
 
@@ -117,7 +119,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 
 ---
 
-## 🛠️ Power BI Techniques Learned
+## Power BI Techniques Learned
 - Asking critical project questions
 - Creating calculated columns and DAX measures
 - Data modeling and schema design
@@ -127,7 +129,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop**: Visualization & reporting
 - **SQL**: Data extraction & transformation
 - **ETL & Power Query**: Data integration, transformation, and pipeline creation
@@ -136,12 +138,12 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 
 ---
 
-## 📚 Business Concepts Learned
+## Business Concepts Learned
 - Financial Metrics: Gross Margin, Net Profit, COGS, YTD/YTG
 - Sales Channels: Direct, Retail, Distributors
 - Key Performance Indicators (KPIs) and business terminology
 
 ---
 
-## 💬 Feedback
+## Feedback
 Your thoughts and feedback are welcome! Feel free to connect and share insights to continue the data-driven journey!
