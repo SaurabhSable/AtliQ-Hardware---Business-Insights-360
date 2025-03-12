@@ -68,7 +68,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 - <ins>Top & Bottom Products by Net Sales:</ins> Highlights most/least profitable products.
 - <ins>Top & Bottom Customers by Net Sales:</ins> Identifies key revenue-driving customers.
 
-![image](https://github.com/user-attachments/assets/eb59faf4-4040-41e8-ab68-4e4b2aa5844d)
+![image](https://github.com/user-attachments/assets/fbacddb3-0229-4286-a05d-5e1a8738e24d)
 
 
 3. **Sales Page:** Aids in refining sales strategies and maximizing profitability.
@@ -77,7 +77,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 - <ins>Gross Margin & Gross Margin %:</ins> Measures profitability.
 - <ins>Additional Sales Metrics:</ins> Uncovers growth opportunities.
 
-![image](https://github.com/user-attachments/assets/1fec7f52-c68b-4e15-a005-e13af99d93ef)
+![image](https://github.com/user-attachments/assets/1c87c9b3-7eca-4a5a-a774-98d1d3656e74)
 
 
 4. **Marketing Page:** Boosts brand visibility and customer engagement.
@@ -86,7 +86,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 - <ins>Segment Performance by Net Profit %:</ins> Assesses net profitability by segment.
 - <ins>Additional Marketing Metrics:</ins> Helps refine marketing strategies.
 
-![image](https://github.com/user-attachments/assets/472dada2-123d-472c-8738-a23c4360113a)
+![image](https://github.com/user-attachments/assets/09d4b7ed-1b9a-4991-8e17-a90af85f2817)
 
 
 5. **Supply Chain Page:** Focuses on inventory management and forecast accuracy.
@@ -95,7 +95,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 - <ins>Net Error Analysis:</ins> Compares forecast vs. actual demand.
 - <ins>Additional Supply Chain Metrics:</ins> Streamlines operations.
 
-![image](https://github.com/user-attachments/assets/c5eab4b2-0402-425f-99e2-e6b079c00843)
+![image](https://github.com/user-attachments/assets/ce06d69a-0033-4ca0-b1f8-ac89bbd4d908)
 
 
 6. **Executive Page:** High-level view for top management, showing sales, margins, and performance by region and channels.
@@ -106,7 +106,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 - <ins>Top 5 Customers & Products:</ins> Identifies key growth drivers.
 - Supports top management in strategic decision-making.
 
-![image](https://github.com/user-attachments/assets/15098702-5a27-4196-9f71-dae0be4fd3b9)
+![image](https://github.com/user-attachments/assets/c7b47007-2d03-4ecd-be15-9644ac9ef48d)
 
 
 7. **Products Page:** Assess whether customers in the 'Customer Performance' sales view are meeting the Gross Margin (GM) % target.
@@ -114,7 +114,7 @@ This project used a **Snowflake schema** to ensure the dashboard is fast and rel
 - <ins>Overall Market:</ins> Displays top & bottom 5 products by GM% growth.
 - <ins>Selected Market:</ins> Shows top & bottom 5 products by GM% growth.
 
-![image](https://github.com/user-attachments/assets/4eafc1f3-237a-42ae-a3af-b492a1bac586)
+![image](https://github.com/user-attachments/assets/3db97e7b-c077-4b5a-aa9f-87b85db998d4)
 
 
 ---
