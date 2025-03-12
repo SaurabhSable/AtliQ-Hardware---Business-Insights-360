@@ -17,7 +17,7 @@ With competitors using advanced analytics, AtliQ Hardware saw the value of build
 
 I contributed to this project by applying my learnings from the Codebasics Power BI Course, focusing on creating meaningful dashboards and reports.
 
-🔗 **Live Dashboard:** [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiMThiMjUzZDAtZTc5NS00ZGIwLWFjZmMtMWYyNzhkMjk1N2YxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 **Live Dashboard:** [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiNzQ5MGNjZmMtN2Q3NC00NmNlLWFjNmUtZTQ1M2M3MzgzMzQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
